@@ -27,7 +27,7 @@ tagline: One In a Milion
 # this description might appear in search result lists, keep around 160 characters max
 description: "TWICE is a KPOP girl group with over a billion fans around the world"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: JairahM
 
 ##########
 # COLLECTION SETTINGS
@@ -40,11 +40,10 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+# organization-name: "TWICE Blog and Biodata"
+# organization-link: https://twice.jype.com/Default
+# organization-logo-banner: https://twice.jype.com/Default
+# organization-logo-nav: https://twice.jype.com/Default
 ##########
 # ROBOTS EXCLUDE
 #
